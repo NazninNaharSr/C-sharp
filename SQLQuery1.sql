@@ -1,0 +1,1 @@
+UPDATE GuestRegistration set First_Name=@param1,Last_Name=@param2,Gender=@param3,Phone_no=@param4,Email=@param5,Address=@param6,Room_Type=@param7,Floor=@param8,Room_No=@param9,Entry_Date=@param10,Departure_Date=@param11 where Guest_ID=@param12"
